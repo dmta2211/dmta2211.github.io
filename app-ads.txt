@@ -2463,3 +2463,8 @@ indexexchange.com, 184738, RESELLER
 pubmatic.com, 161136, RESELLER, 5d62403b186f2ace
 meitu.com, 699, RESELLER
 video.unrulymedia.com, 115018688080045007, RESELLER
+
+# app-ads.txt AdMob p 10/09/2024
+google.com, pub-7958472158675518, DIRECT, f08c47fec0942fa0
+# app-ads.txt Yandex 10/09/2024
+yandex.com, 99290681, DIRECT
