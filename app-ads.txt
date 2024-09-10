@@ -1,4 +1,4 @@
-# app-ads.txt AdMob 28/05/2024
+# app-ads.txt AdMobYandex 28/05/2024
 google.com, pub-9966962268328280, DIRECT, f08c47fec0942fa0
 
 #app-ads.txt Yandex 12/08/2024
