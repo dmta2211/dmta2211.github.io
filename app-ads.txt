@@ -2539,6 +2539,3 @@ bigo.sg, 1115118, DIRECT
 google.com, pub-7958472158675518, DIRECT, f08c47fec0942fa0
 # app-ads.txt Yandex 10/09/2024
 yandex.com, 99290681, DIRECT
-
-#demo Admob is
-google.com, pub-3940256099942544, DIRECT, f08c47fec0942fa0
